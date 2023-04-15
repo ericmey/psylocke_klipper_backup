@@ -1,4 +1,12 @@
+# Ignore Linked Folders and Files
 KAMP/
+
+# Ignore Linked Files
+KAMP
 mainsail.cfg
 printer-*.cfg
+timelapse.cfg
+
+# Ignore Backup Files
+.*.bkp
 *.bkp
